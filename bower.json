@@ -2,7 +2,7 @@
   "name": "selectpicker",
   "description": "Create dynamic selectpicker - watches change in model and act accordingly",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "selectpicker.js",
