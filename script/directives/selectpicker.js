@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.selectpicker.directive')
+angular.module('cc.selectpicker.directive', [])
     .directive('selectpicker', function () {
         return {
             require: ['?ngModel', '?select'],
