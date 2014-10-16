@@ -1,5 +1,5 @@
 {
-	"name": "selectpicker",
+	"name": "cc-selectpicker-directive",
 	"description": "Create dynamic selectpicker - watches change in model and act accordingly",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
