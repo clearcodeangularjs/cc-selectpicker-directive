@@ -5,7 +5,7 @@ Creates dynamic selectpicker - watches change in model and act accordingly
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-selectpicker-directive --save ```
 
 
 Usage
