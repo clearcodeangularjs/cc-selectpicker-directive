@@ -5,7 +5,7 @@
 		"ClearCode (http://clearcode.cc)"
 	],
 	"version": "1.0.0",
-	"main": "selectpicker.js",
+	"main": "script/directives/selectpicker.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
